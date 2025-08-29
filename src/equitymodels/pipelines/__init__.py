@@ -1,0 +1,1 @@
+from .equity_factor_pipeline import run_analysis
