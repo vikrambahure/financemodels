@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "equitymodels"
-version = "0.1.2"                # <-- bump this
+version = "0.1.4"                # <-- bump this
 description = "Equity models and pipelines"
 readme = "README.md"
 requires-python = ">=3.10"
